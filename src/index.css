@@ -4,3 +4,6 @@
 * {
   font-family: "Gilroy" !important;
 }
+::selection {
+  color:  #dba307 !important;
+}
