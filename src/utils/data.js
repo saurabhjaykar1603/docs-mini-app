@@ -18,7 +18,7 @@ const data = [
     tag: { isOpen: false, tagTitle: "upload", tagColor: "green" },
   },
   {
-    description: "my resume has been put here where i can download it ",
+    description: "my docs has been put here where i can download it ",
     filesize: ".4mb",
     close: false,
     tag: { isOpen: true, tagTitle: "Download now", tagColor: "green" },
@@ -31,5 +31,5 @@ const data = [
   },
  
   
-];
+];  
 export default data;
